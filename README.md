@@ -34,12 +34,29 @@ Return:
 
 INFO  Starting server on 0.0.0.0:8080 (localhost).
 
+### Migrate
+`````
+php artisan migrate
+
+php artisan db:seed --class=DemoUserSeeder
+`````
+
+### User Enter Socket Private
+
+email: demo@demo.com
+password: password123
 
 ### Demo
 To test it give this command
 ````
 php artisan changestatusorder
 ````
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/valenzuela21/Realtime-Laravel-App/blob/master/resources/images/demo_console.gif?raw=true)
+
+![alt text](https://github.com/valenzuela21/Realtime-Laravel-App/blob/master/resources/images/demo_console.gif?raw=true)
+
+![alt text](https://github.com/valenzuela21/Realtime-Laravel-App/blob/master/resources/images/demo_console.gif?raw=true)
+
+
 
 
