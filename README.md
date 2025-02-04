@@ -53,9 +53,13 @@ php artisan changestatusorder
 ````
 ![alt text](https://github.com/valenzuela21/Realtime-Laravel-App/blob/master/resources/images/demo_console.gif?raw=true)
 
-![alt text](https://github.com/valenzuela21/Realtime-Laravel-App/blob/master/resources/images/demo_console.gif?raw=true)
+## Client Public
 
-![alt text](https://github.com/valenzuela21/Realtime-Laravel-App/blob/master/resources/images/demo_console.gif?raw=true)
+![alt text](https://github.com/valenzuela21/Realtime-Laravel-App/blob/master/resources/images/realtime_screenshot_01.png?raw=true)
+
+## Client Private
+
+![alt text](https://github.com/valenzuela21/Realtime-Laravel-App/blob/master/resources/images/realtime_screenshot_02.png?raw=true)
 
 
 
