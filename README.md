@@ -35,5 +35,11 @@ Return:
 INFO  Starting server on 0.0.0.0:8080 (localhost).
 
 
+### Demo
+To test it give this command
+````
+php artisan changestatusorder
+````
+![alt text](http://url/to/img.png)
 
 
